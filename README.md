@@ -42,9 +42,9 @@ Compose не рекомпозирует (перерисовывает) инте�
 При этом если оно изменилось, Compose сравнивает старое состояние и новое, и перерисовывает только те элементы интерфейса, которые зависят от изменений.
 
 # Полезные материалы для более подробного погружения в тему
-https://developer.android.com/develop/ui/compose/mental-model
-https://developer.android.com/develop/ui/compose/lifecycle
-https://blog.zachklipp.com/talk-opening-the-shutter-on-snapshots/
-https://www.youtube.com/watch?v=waJ_dklg6fU
-https://medium.com/@takahirom/inside-jetpack-compose-2e971675e55e
-https://www.youtube.com/watch?v=_hI2vwei9Rg
+* https://developer.android.com/develop/ui/compose/mental-model
+* https://developer.android.com/develop/ui/compose/lifecycle
+* https://blog.zachklipp.com/talk-opening-the-shutter-on-snapshots/
+* https://www.youtube.com/watch?v=waJ_dklg6fU
+* https://medium.com/@takahirom/inside-jetpack-compose-2e971675e55e
+* https://www.youtube.com/watch?v=_hI2vwei9Rg
