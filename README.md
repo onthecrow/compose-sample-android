@@ -1,6 +1,7 @@
 # Jetpack Compose State Changing Sample
 
 Пример Jetpack Compose (Swift UI должен работать подобным образом) приложения, иллюстрирующего то как Compose работает с постоянно и бытро изменяющимся состоянием UI
+Основная логика находится в классе [MainViewModel](https://github.com/onthecrow/compose-sample-android/blob/main/app/src/main/java/com/onthecrow/compose_state_playground/MainViewModel.kt)
 
 ### Концепция приложения:
 1) Приложение состоит из одного экрана
